@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="jbuenof45401" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jbuenof45401/Proyecto2Programacion20191.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\sebas\PycharmProjects" />
   </component>
 </application>
